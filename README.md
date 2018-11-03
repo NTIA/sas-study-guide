@@ -1,1 +1,5 @@
-# sas-study-guide
+# Read Me for SAS Study Guide
+
+WInnForum-designed default configuration files for all of the tests included in the "WInnForum Test and Certification for Citizens Broadband Radio Service (CBRS) Conformance and Performance Test Technical Specification; SAS as Unit Under Test (UUT), Document WINN-TS-0061," are included here, as Tranche 0, as a matter of convenience. These default configuration files included here were generated with version 1.0.17 of the WInnForum test code on November 2, 2018.  Refer to the WInnForum GitHub repo for the latest code and default configs, available at https://github.com/Wireless-Innovation-Forum/Spectrum-Access-System   
+
+ITS-designed configuration files for some of the tests included in the "WInnForum Test and Certification for Citizens Broadband Radio Service (CBRS) Conformance and Performance Test Technical Specification; SAS as Unit Under Test (UUT), Document WINN-TS-0061," are included here, as Tranche 1, as a Study Guide for Spectrum Access System Operators. The Study Guide is a non-comprehensive, small sample of the types of tests a Spectrum Access System Operator seeking conformance testing using the WInnForum designed certification test system may encounter during testing at the ITS lab. 
